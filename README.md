@@ -5,9 +5,33 @@
 
 </div>
 
-<h2 align="center">
-   Desafio 05: Primeiro projeto Node.js
-</h2>
+# Desafio 05: Primeiro projeto Node.js
+
+> Projeto desenvolvido com Node e TypeScript durante o bootcamp GoStack
+
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/nodejs-typescript-gostack-challenge-5?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/nodejs-typescript-gostack-challenge-5/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/nodejs-typescript-gostack-challenge-5?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/nodejs-typescript-gostack-challenge-5/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/nodejs-typescript-gostack-challenge-5?color=7159c1&style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/nodejs-typescript-gostack-challenge-5?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/nodejs-typescript-gostack-challenge-5/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/nodejs-typescript-gostack-challenge-5?color=7159c1&style=flat-square">
+</a>
 
 <h3 align="center">
   <img alt="NodeJS"
